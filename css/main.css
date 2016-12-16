@@ -1,7 +1,7 @@
 /*** sectioning elements ***/
 
 body {
-
+background-color: #211107;
 }
 
 header {
@@ -32,11 +32,15 @@ aside {
 /**** content styles ***/
 
 h1 {
-
+color: #ffffff;
+font-family: 'Archivo Narrow', sans-serif;
+text-align: center;
+font-size: 40px;
 }
 
 h2 {
-
+color: #ffffff;
+font-family: 'Cuprum', sans-serif;
 }
 
 h3 {
@@ -56,7 +60,7 @@ h6 {
 }
 
 p {
-
+color: #ffffff;
 }
 
 blockquote {
